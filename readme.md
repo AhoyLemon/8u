@@ -1,11 +1,11 @@
 ##frankwest.xyz
-![idiots win](http://frankwest.xyz/og-image.png)
+![idiots win](http://frankwest.xyz/apple-touch-icon-180x180.png)
 ####(The Frank West Emoticon Soundboard)
 
 ### What is this?
 Frank West likes to read emoticons out loud. And now he'll do it at your command, like you've always dreamed.
 
-### Who made this
+### Who made this?
 [Lemon](https://thefpl.us/meet/lemon) made this. [Frank West](https://thefpl.us/meet/frank-west) provided all the noises.
 
 ### This is kinda stupid.
