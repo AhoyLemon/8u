@@ -1,5 +1,5 @@
-##frankwest.xyz
-![idiots win](http://frankwest.xyz/apple-touch-icon-180x180.png)
+![idiots win](http://frankwest.xyz/favicon-194x194.png)
+## frankwest.xyz
 ####(The Frank West Emoticon Soundboard)
 
 ### What is this?
@@ -18,6 +18,4 @@ Yeah, kinda.
 * [howler.js](https://github.com/goldfire/howler.js) was used to handle the sound commands.
 
 ### Did Lemon make any other stupid sites?
-Yeah.
-* [damn.dog](http://damn.dog)
-* [idiots.win](http://idiots.win)
+Yeah. [Several of them](http://ahoylemon.xyz).
