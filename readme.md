@@ -1,6 +1,6 @@
 ![idiots win](http://frankwest.xyz/favicon-194x194.png)
 ## frankwest.xyz
-####(The Frank West Emoticon Soundboard)
+#### (The Frank West Emoticon Soundboard)
 
 ### What is this?
 Frank West likes to read emoticons out loud. And now he'll do it at your command, like you've always dreamed.
