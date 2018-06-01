@@ -1,0 +1,87 @@
+- var siteTitle = "frankwest.xyz"
+- var siteURL = "https://ahoylemon.github.io/frankwest"
+- var description = "The Frank West Emoticon Soundboard"
+- var d = new Date()
+- var lastUpdated = d.getFullYear() + '-' + (d.getMonth()<10?'0':'') + d.getMonth() + '-' + (d.getDate()<10?'0':'') + d.getDate() + '@' + (d.getHours()<10?'0':'') + d.getHours() + ':' + (d.getMinutes()<10?'0':'') + d.getMinutes() + ':' + (d.getSeconds()<10?'0':'') + d.getSeconds()
+
+doctype html
+html(lang="en")
+  head
+    include partials/_head.pug
+  body
+    include partials/_mixins.pug
+    
+    main
+      .button-grid
+        +button
+          | :D
+        +button
+          | ._.
+        +button
+          | O_O
+        +button
+          | ᕕ( ᐛ )ᕗ
+        +button
+          | ᕦ(° Д°)ᕤ
+        +button
+          | ʕ •ᴥ•ʔ
+        +button
+          | ಠ_ಠ
+        +button
+          | ¯\_(ツ)_/¯
+        +button
+          img(src="img/smuggo.gif")
+        +button
+          img(src="img/unsmith.gif")
+        +button
+          img(src="img/freakout.gif")
+        +button
+          | :|
+        +button
+          | &gt;_&lt;
+        +button
+          | =|8{0
+        +button
+          | 8U
+        +button
+          | (ノಠ益ಠ)ノ彡┻━┻
+        +button
+          img(src="img/crossed.gif")
+        +button
+          img(src="img/yayvictor.svg")
+        +button
+          | D8
+        +button
+          | &gt;:[
+        +button
+          | :P
+        +button
+          | :O
+        +button
+          | XD
+        +button
+          | :3
+        +button
+          | &gt;:|
+        +button
+          | ¬_¬
+        +button
+          | &gt;_&gt;
+        +button
+          | &lt;_&lt;
+        +button
+          | :V
+        +button
+          | \:D/
+        +button
+          | :S
+        +button
+          | O_o
+        +button
+          | :^)
+        +button
+          img(src="img/smith.gif")
+        +button
+          img(src="img/coolspot.gif")
+      
+    include partials/_javascripts.pug
