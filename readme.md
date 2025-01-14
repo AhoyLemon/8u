@@ -1,4 +1,4 @@
-![Frank West pronounces emoticons for you](https://8u.ahoylemon.xyz)
+![Frank West pronounces emoticons for you](https://8u.ahoylemon.xyz/og-image2.webp)
 # Frank West pronounces emoticons for you
 
 ### What is this?
